@@ -17,8 +17,8 @@ public class test {
 		Hospital h = new Hospital (20 ," alhbib") ;
 		
 		
-		System.out.println (		h.addPatient(a1) ) ; 
-		System.out.println (		h.addPatient(a2) ) ; 
+		System.out.println (h.addPatient(a1) ) ; 
+		System.out.println (h.addPatient(a2) ) ; 
 
 
 		System.out.println (h.countPatients("a") ) ; 
